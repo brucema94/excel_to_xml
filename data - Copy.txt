@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<mlc_testings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<testing Key="1" Removable="TRUE" Name="BFC524510" Parent="DSK2395" Parent_node="FX Mgmt Client Facilitation Brazil" Node_Name="MM_V_SAO_NDFG"></testing>
+<testing Key="2" Removable="TRUE" Name="BFC524511" Parent="DSK2395" Parent_node="FX Mgmt Client Facilitation Brazil" Node_Name="MM_V_SAO_SPTG"></testing>
+</mlc_testings>
